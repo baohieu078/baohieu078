@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![]https://img.shields.io/github/followers/baohieu078?label=Follow%20me&style=social]<a class="github-button" href="https://github.com/baohieu078" aria-label="Follow @baohieu078 on GitHub">Follow @baohieu078</a>
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/github/followers/baohieu078?label=Follow%20me&style=social)](https://github.com/baohieu078)"
