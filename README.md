@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm not Chinese :)
 -->
 
+- 🔭 I’m currently studying Communication And Information Engineering
+- 🌱 I’m currently learning Java, Python,..
+- 👯 I’m looking to collaborate on Java
+- 📫 How to reach me: fb.com/baohieu00
+- 😄 Pronouns: Dylan
+- ⚡ Fun fact: I'm not Chinese :)
+
 #### GITHUB
 [![](https://img.shields.io/github/followers/baohieu078?label=Follow%20me&style=social)](https://github.com/baohieu078)
 
